@@ -26,11 +26,3 @@ Utilizando apenas **PYTHON** e as bibliotecas:
 > - Requests
 > - Pandas 
 > - NumPy 
-
-
-✉ contato@asimov.academy
-
-
-
-
-<p align="center">Copyright © 2022 Asimov Academy</p>
